@@ -23,7 +23,7 @@ sidebar: true
 
 [智能合约](/developers/docs/smart-contracts/)是在以太坊区块链上运行的可执行程序。
 
-智能合约使用了特定的[编程语言](/developers/docs/smart-contracts/languages/)来编译到 EVM 字节码（调用 opcodes 的低级机器说明）。
+智能合约使用了特定的[编程语言](/developers/docs/smart-contracts/languages/)来编译到 EVM 字节码（被称为opcodes的低级机器指令）。
 
 智能合约不仅是开放源码库，而且它们基本上是运行 24/7 的开放 API 服务，不能被取消。 智能合约提供了为用户和应用程序 ([dapp](/developers/docs/dapps/)) 之间交互的公开方法，无需许可。 任何应用程序都可能会与已部署的智能合约集成组成功能，如添加 [数据源](/developers/docs/oracles/) 或支持代币交换。 任何人都可以在以太坊上部署智能合约，以便添加自定义功能来满足其应用程序的需要。
 
